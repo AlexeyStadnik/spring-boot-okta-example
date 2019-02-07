@@ -1,0 +1,5 @@
+okta:
+  oauth2:
+    issuer: https://test.okta.com
+    clientId: test
+    clientSecret: test
